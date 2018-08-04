@@ -1,0 +1,4 @@
+infiniteSave.cpp是无尽模式新游戏的源码
+infiniteReadSave.cpp是读取无尽模式存档并继续游戏的源码
+mapflash.cpp是地图模式最终毒草闪烁的版本
+头文件包括initmap.h/isin.h/save.h/struct.h
